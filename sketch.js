@@ -83,7 +83,7 @@ function draw() {
   
   
   if(gameState === PLAY){
-    //mover el gameState 
+    //mover los sprites 
     gameOver.visible = false;
     restart.visible = false;
     //cambiar la animación del Trex
